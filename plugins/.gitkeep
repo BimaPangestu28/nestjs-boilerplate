@@ -1,0 +1,2 @@
+# This file keeps the plugins directory in git
+# Actual plugins will be installed here via the plugin system
